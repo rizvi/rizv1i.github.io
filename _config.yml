@@ -1,0 +1,76 @@
+# Site settings
+title: Rizvi's Biography
+twitter_username: abuzak3
+name: Md. Abu Zakir Rizvi
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: http://zakirrizvi.blogspot.com/
+ - title: GitHub
+   url: https://github.com/rizvi
+ - title: StackOverflow
+   url: https://stackoverflow.com/users/2293534/skywalker
+ - title: Patreon
+   url: https://www.patreon.com/rizvi
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/abu-zakir-rizvi-62569a4b/
+
+#Any buzzword skills you want to include
+skills:
+ - Spring MVC/Boot/Social
+ - Java
+ - GraphQL
+ - Amazon Web Services(AWS)
+ - Microsoft Azure
+ - API design
+ - REST
+ - Groovy
+ - Gradle
+ - Maven
+ - Hibernate
+ - JPA
+ - SQL
+ - Oracle
+ - MySQL
+ - Product management
+ - Technical Architecture
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+
+#Work experience is required
+roles:
+ - title: Sr. Software Engineer
+   start: 2017
+   end: Ongoing
+   employer: BJIT Limited
+   description: BJIT is an Offshore Software Development Company working on those areas: (IoT & Big Data, AI & Deep Learning, Fintech & Block Chain, Cloud & Enterprise Solution and Smartphone & Embedded Application), Application Management as a Service and Software Testing & Automation. <br/> <h3>Roles and Responsibilities</h3><br/> Lead projects on a product team focused on a major user-facing area of the company, partnering closely with other functions (like Product Managers, Designers, and Data Scientists). <br/> Collaborate with architects, engineers, and business on product design and feature. <br/> Contribute to the team's product and technical roadmaps. <br/> Drive projects from ideation to production using the full technology stack. <br/> Provide technical guidance and mentorship to engineers across the company. <br/> Work with the engineering management team to develop new initiatives and improve existing processes
+ - title: Software Engineer
+   start: 2017
+   end: 2014
+   employer: BJIT Limited
+   description: Working with a range of cutting edge technologies and techniques including Amazon Web Services, Spring Boot, Spring MVC, GraphQL, Hibernate, Maven, Gradle, Git and other techniques.
+ - title: Programmer/
+   start: 2014
+   end: 2013
+   employer: BJIT Limited
+   description: Working with a range of cutting edge technologies and techniques including Amazon Web Services, Spring Boot, Spring MVC, GraphQL, Hibernate, Maven, Gradle, Git and other techniques. I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the back-end services.
+ - title: Junior Software Engineer
+   start: 2013
+   end: 2013
+   employer: SurroundApps Inc.
+   description: Working with a range of cutting edge technologies and techniques including Automation techniques.
+
+#Education is required
+education:
+ - level: Bachelor of Science (B.Sc.)
+   date: 2011
+   subject: Information and communication Technology
+   school: Mawlana Bhashani Science and Technology University
+
+# Update: https://github.com/robhinds/robhinds.github.io/edit/master/_config.yml

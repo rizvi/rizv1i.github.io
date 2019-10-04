@@ -74,3 +74,5 @@ education:
    school: Mawlana Bhashani Science and Technology University
 
 # Update: https://github.com/robhinds/robhinds.github.io/edit/master/_config.yml
+
+theme: jekyll-theme-architect
